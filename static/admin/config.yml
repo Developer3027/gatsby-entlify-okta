@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: Developer3027/gatsby-netlify-okta
+  repo: developer3027/gatsby-entlify-okta
 
 media_folder: static/assets
 public_folder: assets
